@@ -1,0 +1,101 @@
+------------------------
+Prediksi untuk X=  [0]
+Kelas Sebenarnya=   1
+Prediksi Salah
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [0]
+Kelas Sebenarnya=   1
+Prediksi Salah
+------------------------
+------------------------
+Prediksi untuk X=  [0]
+Kelas Sebenarnya=   0
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   0
+Prediksi Salah
+------------------------
+------------------------
+Prediksi untuk X=  [0]
+Kelas Sebenarnya=   0
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   1
+Prediksi Benar
+------------------------
+------------------------
+Prediksi untuk X=  [1]
+Kelas Sebenarnya=   0
+Prediksi Salah
+------------------------
+Banykanya Prediksi yang benar 16

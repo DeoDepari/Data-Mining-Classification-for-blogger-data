@@ -1,0 +1,104 @@
+CH Index untuk k =  2  =  51.706695026178004
+FMI untuk      k =  2  =  0.5283123628297892
+
+CH Index untuk k =  3  =  54.57136136488762
+FMI untuk      k =  3  =  0.46136430555518354
+
+CH Index untuk k =  4  =  56.15004102912733
+FMI untuk      k =  4  =  0.3951600237623715
+
+CH Index untuk k =  5  =  55.70628254786964
+FMI untuk      k =  5  =  0.42173556856004235
+
+CH Index untuk k =  6  =  57.32764542765246
+FMI untuk      k =  6  =  0.324853717197343
+
+CH Index untuk k =  7  =  57.813560266105995
+FMI untuk      k =  7  =  0.30591351413158985
+
+CH Index untuk k =  8  =  60.45299256701729
+FMI untuk      k =  8  =  0.30797898224966036
+
+CH Index untuk k =  9  =  64.92412842012358
+FMI untuk      k =  9  =  0.300977899372585
+
+CH Index untuk k =  10  =  66.6970086940792
+FMI untuk      k =  10  =  0.2875939897031415
+
+CH Index untuk k =  11  =  63.73206112342578
+FMI untuk      k =  11  =  0.28449522756346574
+
+CH Index untuk k =  12  =  63.339457737885965
+FMI untuk      k =  12  =  0.24022448642935101
+
+CH Index untuk k =  13  =  63.84433703041216
+FMI untuk      k =  13  =  0.2691070009453835
+
+CH Index untuk k =  14  =  66.40207320041335
+FMI untuk      k =  14  =  0.24842049133659008
+
+CH Index untuk k =  15  =  64.92712167913733
+FMI untuk      k =  15  =  0.26515008851274535
+
+CH Index untuk k =  16  =  65.5455676574694
+FMI untuk      k =  16  =  0.24934171290866705
+
+CH Index untuk k =  17  =  64.44697220081918
+FMI untuk      k =  17  =  0.24874046987314985
+
+CH Index untuk k =  18  =  68.69283243004541
+FMI untuk      k =  18  =  0.2461674508192061
+
+CH Index untuk k =  19  =  68.99549463281275
+FMI untuk      k =  19  =  0.23884014244172921
+
+CH Index untuk k =  20  =  69.6524125260567
+FMI untuk      k =  20  =  0.24155383841936653
+
+CH Index untuk k =  21  =  77.06568152088605
+FMI untuk      k =  21  =  0.2433543527940118
+
+CH Index untuk k =  22  =  79.41149219036743
+FMI untuk      k =  22  =  0.22599659569852715
+
+CH Index untuk k =  23  =  79.79789268638216
+FMI untuk      k =  23  =  0.2441696125409171
+
+CH Index untuk k =  24  =  88.2225456109538
+FMI untuk      k =  24  =  0.24025781793578013
+
+CH Index untuk k =  25  =  94.2483108108108
+FMI untuk      k =  25  =  0.21948195268013332
+
+CH Index untuk k =  26  =  100.4055732739421
+FMI untuk      k =  26  =  0.23549955634869116
+
+CH Index untuk k =  27  =  104.027066817667
+FMI untuk      k =  27  =  0.23370865920693362
+
+CH Index untuk k =  28  =  118.38672071028762
+FMI untuk      k =  28  =  0.22635157162457975
+
+CH Index untuk k =  29  =  132.2391331719128
+FMI untuk      k =  29  =  0.21597236147909085
+
+CH Index untuk k =  30  =  148.8528901017117
+FMI untuk      k =  30  =  0.22608138376646855
+
+CH Index untuk k =  31  =  186.11542319749213
+FMI untuk      k =  31  =  0.22213166741925447
+
+CH Index untuk k =  32  =  254.4751853635051
+FMI untuk      k =  32  =  0.21518644669439654
+
+CH Index untuk k =  33  =  329.51056818181814
+FMI untuk      k =  33  =  0.21689624204339053
+
+CH Index untuk k =  34  =  548.1557894736841
+FMI untuk      k =  34  =  0.21470466141821815
+
+CH Index untuk k =  35  =  1425.4882352941174
+FMI untuk      k =  35  =  0.21761275770427244
+
+CH Index untuk k =  36  =  1.0
+FMI untuk      k =  36  =  0.21682603035247436

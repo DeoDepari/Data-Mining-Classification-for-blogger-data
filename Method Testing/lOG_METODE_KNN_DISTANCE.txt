@@ -1,0 +1,720 @@
+------------------------
+N_Neighbors= 1
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 2
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 3
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 4
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 5
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 6
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 7
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 8
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 9
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 10
+Hasil klasifikasi menggunakan K-NN :  [1 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 15.00 %
+Akurasi = 85.00 %
+------------------------
+------------------------
+N_Neighbors= 11
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 12
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 13
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 14
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 15
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 16
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 17
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 18
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 19
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 20
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 21
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 22
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 23
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 24
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 25
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 26
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 27
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 28
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 29
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 30
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 31
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 32
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 33
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 34
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 35
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 36
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 37
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 38
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 39
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 40
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 41
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 42
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 43
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 44
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 45
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 46
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 47
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 48
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 49
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 50
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 51
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 52
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 53
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 54
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 55
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 56
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 57
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 58
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 59
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 60
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 61
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 62
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 63
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 64
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 65
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 66
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 67
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 68
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 69
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 70
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 71
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 72
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 73
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 74
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 75
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 76
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 77
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 78
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 79
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 80
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------

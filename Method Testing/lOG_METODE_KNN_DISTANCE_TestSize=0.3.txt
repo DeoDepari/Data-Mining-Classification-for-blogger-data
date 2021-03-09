@@ -1,0 +1,700 @@
+------------------------
+N_Neighbors= 1
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 23.33 %
+Akurasi = 76.67 %
+------------------------
+------------------------
+N_Neighbors= 2
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 20.00 %
+Akurasi = 80.00 %
+------------------------
+------------------------
+N_Neighbors= 3
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 20.00 %
+Akurasi = 80.00 %
+------------------------
+------------------------
+N_Neighbors= 4
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 20.00 %
+Akurasi = 80.00 %
+------------------------
+------------------------
+N_Neighbors= 5
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 20.00 %
+Akurasi = 80.00 %
+------------------------
+------------------------
+N_Neighbors= 6
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 20.00 %
+Akurasi = 80.00 %
+------------------------
+------------------------
+N_Neighbors= 7
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 8
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 9
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 10
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 11
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 12
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 13
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 14
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 15
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 16
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 17
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 18
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 19
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 20
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 21
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 22
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 23
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 24
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 25
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 26
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 27
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 28
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 16.67 %
+Akurasi = 83.33 %
+------------------------
+------------------------
+N_Neighbors= 29
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 30
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 31
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 32
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 33
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 34
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 35
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 36
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 37
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 38
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 39
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 40
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 41
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 42
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 43
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 44
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 45
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 46
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 47
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 48
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 49
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 50
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 51
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 52
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 53
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 54
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 55
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 56
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 57
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 58
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 59
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 60
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 61
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 62
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 63
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 64
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 65
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 66
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 67
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 68
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 69
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
+------------------------
+N_Neighbors= 70
+Test Size=  0.3
+Hasil klasifikasi menggunakan K-NN :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1]
+
+Hasil klasifikasi data yang benar :  [1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1]
+
+Error prediksi = 10.00 %
+Akurasi = 90.00 %
+------------------------
